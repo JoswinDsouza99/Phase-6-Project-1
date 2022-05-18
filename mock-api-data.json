@@ -1,0 +1,260 @@
+{
+  "user": [
+    {
+      "name": "Joswin Dsouza",
+      "mobNumber": "9687004044",
+      "age": 27,
+      "dob": "1992-09-17",
+      "email": "joswinjoeldsouza@gmail.com",
+      "password": "123456",
+      "language": [
+        "English",
+        "Oriya/Odiya"
+      ],
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Vapi",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": "560037"
+      },
+      "aboutYou": "I am a programmer...",
+      "uploadPhoto": "C:\\fakepath\\IMG_7514.jpg",
+      "agreetc": true,
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "aboutYou": "I am programmer",
+      "age": 25,
+      "agreetc": true,
+      "dob": "2019-12-31",
+      "email": "seller@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": "560037"
+      },
+      "language": [
+        "Oriya/Odiya"
+      ],
+      "mobNumber": "0123456789",
+      "name": "Bijay",
+      "password": "123456",
+      "uploadPhoto": "C:\\fakepath\\Online Application.pdf",
+      "role": "seller",
+      "id": 2
+    },
+    {
+      "name": "Last user",
+      "mobNumber": "0123456789",
+      "age": 25,
+      "dob": "2017-11-30",
+      "email": "buyer@gmail.com",
+      "password": "123456",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": "560037"
+      },
+      "aboutYou": "djdhjdh",
+      "uploadPhoto": "C:\\fakepath\\Online Application.pdf",
+      "role": "buyer",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Masala Dosa",
+      "uploadPhoto": "https://www.holidify.com/images/cmsuploads/compressed/indian-1768906_1920_20180322173733.jpg",
+      "productDesc": "Masala dosa is a popular South Indian breakfast where a crispy crepe made of fermented rice and lentil batter is served with flavorful spiced potato",
+      "mrp": "150",
+      "dp": "120",
+      "status": "publish"
+    },
+    {
+      "id": 2,
+      "name": "Samosa",
+      "uploadPhoto": "https://www.skymetweather.com/themes/skymet/images/gallery/toplists/Top-Not-to-miss-food-items-in-Monsoon/4.jpg",
+      "productDesc": "A samosa is a fried or baked pastry with a savory filling, including ingredients such as spiced potatoes, onions, peas, chicken and/or other meats.",
+      "mrp": "50",
+      "dp": "30",
+      "status": "publish"
+    },
+    {
+      "id": 3,
+      "name": "Momos",
+      "uploadPhoto": "https://www.skymetweather.com/themes/skymet/images/gallery/toplists/Top-Not-to-miss-food-items-in-Monsoon/5.jpg",
+      "productDesc": "Momo is a type of steamed dumpling with some form of filling. Momo has become a traditional delicacy in Nepal, Tibet, as well as among Nepalese.",
+      "mrp": "120",
+      "dp": "90",
+      "status": "publish"
+    },
+    {
+      "id": 4,
+      "name": "Pav Bhaji",
+      "uploadPhoto": "https://www.skymetweather.com/themes/skymet/images/gallery/toplists/Top-Not-to-miss-food-items-in-Monsoon/7.jpg",
+      "productDesc": "Pav bhaji is an Indian fast food consisting of a spicy vegetable gravy served with soft dinner rolls. In Hindi and Marathi, the word 'Pav' means bread",
+      "mrp": "150",
+      "dp": "120",
+      "status": "publish"
+    },
+    {
+      "id": 5,
+      "name": "Garam Chai",
+      "uploadPhoto": "https://www.skymetweather.com/themes/skymet/images/gallery/toplists/Top-Not-to-miss-food-items-in-Monsoon/3.jpg",
+      "productDesc": "Chai is steeped in a rich history. The name “chai” is actually the Hindi word for “tea”, which was derived from “cha”, the Chinese word for “tea”. In this case, the Hindi term chai means a mix of spices steeped into a tea-like beverage.",
+      "mrp": "40",
+      "dp": "20",
+      "status": "publish"
+    },
+    {
+      "id": 6,
+      "name": "Pizza",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/35118898_1675576969163519_65233698458435584_n-medium.jpg",
+      "productDesc": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients",
+      "mrp": "199",
+      "dp": "150",
+      "status": "publish"
+    },
+    {
+      "id": 7,
+      "name": "Noodles",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/eX5xw60W7G1XKr0ai2Ok-cropped.jpg",
+      "productDesc": "Noodles are a type of food made from unleavened dough which is rolled flat and cut, stretched or extruded, into long strips or strings.",
+      "mrp": "123",
+      "dp": "99",
+      "status": "publish"
+    },
+    {
+      "id": 8,
+      "name": "Burger",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/3Zmh9CL1rPpNscxzhzli-cropped.png",
+      "productDesc": "A hamburger (or burger for short) is a food consisting of fillings —usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.",
+      "mrp": "200",
+      "dp": "199",
+      "status": "draft"
+    },
+    {
+      "id": 9,
+      "name": "Sandwich",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/eSkwnbYYZn9EMCa1n0h3-cropped.jpg",
+      "productDesc": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type.",
+      "mrp": "300",
+      "dp": "199",
+      "status": "inactive"
+    },
+    {
+      "id": 10,
+      "name": "Frankie",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/7CjfpvxVBrrlaHJiWPwX-cropped.jpg",
+      "productDesc": "This veg frankie recipe is one of the most loved Indian street food! Whole wheat roti or chapati is layered with spiced mashed potato rolls",
+      "mrp": "100",
+      "dp": "80",
+      "status": "publish"
+    },
+    {
+      "id": 11,
+      "name": "Shake",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/SXrD1UjvqJodxghQx9Lb-cropped.jpg",
+      "productDesc": "A milkshake (sometimes simply called a shake) is a sweet drink made by blending milk, ice cream, and flavorings or sweeteners such as butterscotch",
+      "mrp": "150",
+      "dp": "120",
+      "status": "publish"
+    },
+    {
+      "id": 12,
+      "name": "Patties",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/DBrHN3BSW9wY0KgFjw0E-cropped.jpg",
+      "productDesc": "A patty or burger (in British English) is a flattened, usually round, serving of ground meat and/or legumes, grains, vegetables, or meat alternatives",
+      "mrp": "120",
+      "dp": "100",
+      "status": "publish"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 1,
+        "name": "Polyester Door Curtain",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+        "productDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+        "mrp": "1000",
+        "dp": "499",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": 560037
+      },
+      "contact": "09040398006",
+      "dateTime": "18/07/2019"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 1,
+        "name": "Polyester Door Curtain",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+        "productDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+        "mrp": "1000",
+        "dp": "499",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": 560037
+      },
+      "contact": "09040398006",
+      "dateTime": "30/08/2019"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 2,
+        "name": "Ashirvad Ghee",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/j9yixe80/ghee/h/z/p/1-aashirvaad-pure-cow-plastic-bottle-aashirvaad-original-imaeznaasxznzgc7.jpeg?q=70",
+        "productDesc": "Ghee is pure hygeine and best in the market. You can trust it over all. It is fresh and made by the best dairies of India. ",
+        "mrp": "180",
+        "dp": "175",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": 560037
+      },
+      "contact": "0123456789",
+      "dateTime": "2/21/2022"
+    }
+  ]
+}
